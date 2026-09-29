@@ -1,0 +1,6 @@
+{
+  "superfid": {
+    "type": "http",
+    "url": "https://api.superfid.io/mcp"
+  }
+}

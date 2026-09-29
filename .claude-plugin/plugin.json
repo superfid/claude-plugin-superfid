@@ -1,0 +1,11 @@
+{
+  "name": "superfid",
+  "version": "1.0.0",
+  "description": "Superfid helps businesses manage inventory faster and more accurately with RFID.\n\nRFID로 재고를 더 빠르고 정확하게 관리할 수 있도록 돕는 서비스입니다.",
+  "author": {
+    "name": "Superfid"
+  },
+  "homepage": "https://superfid.io",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
